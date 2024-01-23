@@ -1,0 +1,364 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title> FitFlavors Kitchen.</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+        integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+    <nav class="navbar">
+        <div class="navbar-container container">
+            <input type="checkbox" name="" id="">
+            <div class="hamburger-lines">
+                <span class="line line1"></span>
+                <span class="line line2"></span>
+                <span class="line line3"></span>
+            </div>
+            <ul class="menu-items">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#food">Category</a></li>
+                <li><a href="#food-menu">Menu</a></li>
+                <li><a href="#testimonials">reviews</a></li>
+                <li><a href="#contact">Contact</a></li>
+                <li><a href="#chatbot">Chatbot</a></li>
+            </ul>
+            <img style="border-radius: 50%; height: 90px;" src="images/ORGANIC LOGO.jpg" alt="logo" />
+        </div>
+    </nav>
+    <section class="showcase-area" id="showcase">
+        <div class="showcase-container">
+            <h1 class="main-title" id="home">Fit Flavors Kitchen</h1>
+            <p style="color: antiquewhite;">Eat Healty, it is good for our health.</p>
+            
+<!-- Add select tag with options and hide it initially -->
+<a href="javascript:void(0);" class="btn btn-primary" id="menu-button">Menu</a>
+
+<select id="food-type" style="padding: 5px; border: 1px solid #ccc; border-radius: 5px; display: none;">
+  <option>select</option>
+  <option value="veg">Veg</option>
+  <option value="non-veg">Non-Veg</option>
+</select>
+
+<script>
+  const menuButton = document.getElementById("menu-button");
+  //const foodTypeSelect = document.getElementById("food-type");
+
+  menuButton.addEventListener("click", () => {
+    foodTypeSelect.style.display = foodTypeSelect.style.display === "none" ? "block" : "none";
+  });
+</script>
+
+
+
+<script>
+    const foodTypeSelect = document.getElementById("food-type");
+
+foodTypeSelect.addEventListener("change", (event) => {
+  const selectedValue = event.target.value;
+
+  // Redirect to the appropriate page based on the selected value
+  if (selectedValue === "veg") {
+    window.location.href = "veg.html";
+  } else if (selectedValue === "non-veg") {
+    // Redirect to the non-veg page (replace with the actual URL)
+    window.location.href = "non-veg.html";
+  }
+});
+</script>
+
+        </div>
+    </section>
+
+    <section id="about">
+        <div class="about-wrapper container">
+            <div class="about-text">
+                <p class="small">About Us</p>
+                <h2>Savor the goodness of nature in every bite</h2>
+                <p>
+                    Organic restaurants prioritize organic, pesticide-free ingredients
+                    emphasizing sustainability and locally sourced, seasonal produce.
+                    They cater to health-conscious customers with a focus on wholesome,
+                    natural options and environmental consciousness.
+                </p>
+            </div>
+            <div class="about-img">
+                <img src="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/organic-food-logo-design-template-a6555fa7f226417cf106138a0ce83c2b_screen.jpg?ts=1676219912"
+                    alt="food" />
+            </div>
+        </div>
+    </section>
+    <section id="food">
+        <h2>Types of food</h2>
+        <div class="food-container container">
+            <div class="food-type fruite">
+                <div class="img-container">
+                    <img src="https://i.pinimg.com/564x/2f/be/83/2fbe83a750f3e06495566103a426633d.jpg" alt="error" />
+
+
+                    <div class="img-content">
+
+                        <h3>fruite</h3>
+
+                        <a href="https://en.wikipedia.org/wiki/Fruit" class="btn btn-primary" target="blank">learn
+                            more</a>
+                    </div>
+                </div>
+            </div>
+            <div class="food-type vegetable">
+                <div class="img-container">
+                    <img src="https://i.postimg.cc/Nffm6Rkk/food2.jpg" alt="error" />
+                    <div class="img-content">
+                        <h3>vegetable</h3>
+                        <a href="https://en.wikipedia.org/wiki/Vegetable" class="btn btn-primary" target="blank">learn
+                            more</a>
+                    </div>
+                </div>
+            </div>
+            <div class="food-type grin">
+                <div class="img-container">
+                    <img src="https://i.postimg.cc/76ZwsPsd/food3.jpg" alt="error" />
+                    <div class="img-content">
+                        <h3>garin</h3>
+                        <a href="https://en.wikipedia.org/wiki/Grain" class="btn btn-primary" target="blank">learn
+                            more</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="food-menu">
+        <h2 class="food-menu-heading">Food Menu</h2>
+        <div class="food-menu-container container">
+            <div class="food-menu-item">
+                <div class="food-img">
+                    <img src="images/veggie tacos.png" alt="" />
+                </div>
+                <div class="food-description">
+                    <h2 class="food-titile">Veggie tacos</h2>
+                    <p>
+                        Nutrient-Rich: Packed with vitamins, minerals,
+                        and fiber from vegetables and plant-based proteins,
+                        contributing to a well-balanced diet.
+                    </p>
+                    <p class="food-price">Price: &#8377; 250</p>
+                </div>
+            </div>
+
+            <div class="food-menu-item">
+                <div class="food-img">
+                    <img src="https://i.pinimg.com/564x/a5/12/cf/a512cfc1708b6a88aadb89e78caaf2cd.jpg" alt="error" />
+                </div>
+                <div class="food-description">
+                    <h2 class="food-titile">winter salaad</h2>
+                    <p>
+                        Adding winter salads to your meals is a tasty way to nourish your body
+                        with essential nutrients and maintain a well-rounded and healthy
+                    </p>
+                    <p class="food-price">Price: &#8377; 350</p>
+                </div>
+            </div>
+            <div class="food-menu-item">
+                <div class="food-img">
+                    <img src="hibachi-chicken-fried-rice-7.jpg" alt="" />
+                </div>
+                <div class="food-description">
+                    <h2 class="food-titile">haibachi-chicken-fired-rice</h2>
+                    <p>
+                        The dish may contain added sodium, oil, and possibly high-calorie sauces, so moderation is key
+                    </p>
+                    <p class="food-price">Price: &#8377; 499</p>
+                </div>
+            </div>
+            <div class="food-menu-item">
+                <div class="food-img">
+                    <img src="https://i.pinimg.com/564x/4d/4f/a9/4d4fa90ac1974e6a048144dfdab5ab92.jpg" alt="" />
+                </div>
+                <div class="food-description">
+                    <h2 class="food-titile">veg salaad</h2>
+                    <p>
+
+                        Incorporating a variety of colorful vegetables into your salads allows you to enjoy a diverse
+                        range of nutrients, promoting a balanced and healthy diet
+                    </p>
+                    <p class="food-price">Price: &#8377; 150</p>
+                </div>
+            </div>
+            <div class="food-menu-item">
+                <div class="food-img">
+                    <img src="images/AVACADO EGG TOAST.png" alt="" />
+                </div>
+                <div class="food-description">
+                    <h2 class="food-titile">Avacodo egg toast</h2>
+                    <p>
+                        While enjoying avocado egg toast, it's essential to be mindful of portion sizes and consider the
+                        overall balance of your diet. This dish can be part of a nutritious and well-rounded meal plan.
+                    </p>
+                    <p class="food-price">Price: &#8377; 180</p>
+                </div>
+            </div>
+            <div class="food-menu-item">
+                <div class="food-img">
+                    <img src="images/juice.jpg" alt="" />
+                </div>
+                <div class="food-description">
+                    <h2 class="food-titile">Fruit pulpy juices</h2>
+                    <p>
+                        Incorporating natural juices into a balanced diet can contribute to weight management,
+                        especially if they replace sugary, high-calorie beverages.
+                    </p>
+                    <p class="food-price">Price: &#8377; 140</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="testimonials">
+        <h2 class="testimonial-title">What Our Customers Say</h2>
+        <div class="testimonial-container container">
+            <div class="testimonial-box">
+                <div class="customer-detail">
+                    <div class="customer-photo">
+                        <img src="images/andrewa bro 1.jpeg" alt="" />
+                        <p class="customer-name">Andrews</p>
+                    </div>
+                </div>
+                <div class="star-rating">
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                </div>
+                <p class="testimonial-text">
+                    "They serve healthy & tasty Veg & non-veg homely food with a great packaging."
+
+                </p>
+
+            </div>
+            <div class="testimonial-box">
+                <div class="customer-detail">
+                    <div class="customer-photo">
+                        <img src="https://i.pinimg.com/564x/d8/9e/77/d89e776676772ec7930385e05299bca8.jpg" alt="" />
+                        <p class="customer-name">Hannah</p>
+                    </div>
+                </div>
+                <div class="star-rating">
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                </div>
+                <p class="testimonial-text">
+                    "Pure organic restaurant with a different dishes made out of millets served.Its a nice cozy place."
+
+
+
+                </p>
+
+            </div>
+            <div class="testimonial-box">
+                <div class="customer-detail">
+                    <div class="customer-photo">
+                        <img src="david teanat.jpg" alt="" />
+                        <p class="customer-name"> Antony Ruben</p>
+                    </div>
+                </div>
+                <div class="star-rating">
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                </div>
+                <p class="testimonial-text">
+                    "The food taste is great and the fact that we are eating whole food makes it even more awesome."
+                    Must visit.....
+                </p>
+
+            </div>
+        </div>
+    </section>
+    <section id="contact">
+        <div class="contact-container container">
+            <div class="contact-img">
+                <img src="https://th.bing.com/th/id/OIP.D1UhIe-TYYL-ivFabzSe-QHaE8?rs=1&pid=ImgDetMain" alt="" />
+            </div>
+
+            <div class="form-container">
+                <h2>Contact Us</h2>
+                <form onsubmit="validateAndSubmit()">
+                    <input type="text" id="name" placeholder="Your Name" />
+                    <input type="email" id="email" placeholder="E-Mail" />
+                    <textarea id="message" cols="30" rows="6" placeholder="Type Your Message"></textarea>
+                    <button type="submit" class="btn btn-primary">Submit</button>
+                </form>
+            </div>
+        </div>
+
+    </section>
+    <footer id="footer">
+
+    </footer>
+    <!-- .................../ JS Code for smooth scrolling /...................... -->
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="app.js"></script>
+    <script>
+        function validateAndSubmit() {
+            // Get form inputs
+            var name = document.getElementById('name').value;
+            var email = document.getElementById('email').value;
+            var message = document.getElementById('message').value;
+
+            // Simple validation
+            if (name.trim() === '') {
+                alert('Please enter your name');
+                return false;
+            }
+
+            if (email.trim() === '') {
+                alert('Please enter your email');
+                return false;
+            }
+
+            // You can add more complex email validation if needed
+            // Example: if (!isValidEmail(email)) {
+            //     alert('Please enter a valid email address');
+            //     return false;
+            // }
+
+            if (message.trim() === '') {
+                alert('Please enter your message');
+                return false;
+            }
+
+            // If all fields are filled, the form will be submitted
+            alert('your response submitted successfully!');
+            return true;
+        }
+
+        // Example of a simple email validation function
+        function isValidEmail(email) {
+            // Use a regular expression for basic email validation
+            var emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+            return emailRegex.test(email);
+        }
+    </script>
+
+
+</html>
+
+</body>     }
+    </script>
+
+
+</html>
+
+</body>
