@@ -1,4 +1,4 @@
-<h1>ORGANIC RESTAURANT:</h1>
+<h1>FIT-FLAVOURS KITCHEN:</h1>
 <h4>Savor the Goodness of nature in every bite.</h4>
 <h1>Project Details</h1>
 	<b>**Project Demo URL:</b> <br>
