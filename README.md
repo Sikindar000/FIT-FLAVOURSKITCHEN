@@ -23,7 +23,7 @@
 <h1>Project Description:</h1>
 <p> This project involves the creation of a  static and visually appealing website for an organic restaurant. The website aims to showcase the restaurant's commitment to organic, pesticide-free ingredients, with a focus on both vegetarian and non-vegetarian offerings. The goal is to attract health-conscious customers by highlighting the wholesome, natural options available and promoting environmental consciousness.</p>
 <h1>Core Azure Services:</h1>
-<h3>Azure Blob Storage:-</h3> 
+<h2>Azure Blob Storage:-</h2> 
 <p>Azure Blob Storage is Microsoft's scalable object storage solution in the Azure cloud. It enables secure and cost-effective storage of unstructured data, such as documents and images. Offering seamless integration with applications, it supports data of any size and optimizes accessibility through a globally distributed network.</p> 
 <h3>Azure Storage Account:-</h3> 
 <p>Azure Storage Account is a foundational component in Microsoft Azure, providing secure and scalable cloud storage. It supports various storage services like Blob, File, Queue, and Table, accommodating diverse data types. With features such as redundancy options and access controls, it ensures reliable and efficient data management.</p>
