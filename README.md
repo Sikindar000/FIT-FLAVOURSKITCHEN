@@ -51,11 +51,11 @@ Azure App Service Plan is a foundational component within Microsoft Azure that d
 <p>
 Azure Bot Service is a cloud-based service provided by Microsoft Azure that enables the development, deployment, and management of intelligent bots. Bots created using Azure Bot Service can interact with users across various channels, such as web, mobile, Microsoft Teams, Skype, and more.
 </p>
-<img src="">
-<img src="">	
+<img src="azure ai services.png">
+
 <h3>Azure Chatbot :-</h3> 
 <p>The Azure AI Language Chatbot is a cutting-edge conversational agent powered by Microsoft's Azure platform. Leveraging advanced natural language processing capabilities, it facilitates dynamic and context-aware interactions. This intelligent chatbot employs machine learning algorithms to comprehend user queries, providing personalized responses and assistance across diverse domains. Seamlessly integrating with Azure services, it ensures scalability and reliability.</p>
-<img src= "">
+<img src= "Chatbot.png">
 <h1>Screenshot’s:</h1>
 
 <h1>Description</h1>
