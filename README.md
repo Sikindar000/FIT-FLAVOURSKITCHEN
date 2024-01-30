@@ -18,9 +18,11 @@
 <img src="azure blob storage-2.png">
 <br>
 <b>2.	Storage account</b>  
+<img src="azure screen shot-1.1.png">
+<br>
+<b>3.	Azure Backup service</b>
 
 <br>
-<b>3.	Azure Backup service</b> <br>
 <b>4.	Azure AI services</b> <br>
 <b>5.	chatbot</b> <br>
 <h1>Problem Statement:</h1>
