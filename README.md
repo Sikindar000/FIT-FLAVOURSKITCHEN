@@ -40,6 +40,9 @@
  <h3>Azure Backup Service:-</h3> 
  <p>Azure Backup Service by Microsoft safeguards critical data in the Azure cloud. It offers automated and scalable backup solutions for virtual machines, applications, and files. With features like long-term retention and geo-redundancy, it ensures data resilience and facilitates efficient disaster recovery, enhancing overall data protection strategies.</p>
  <img src="azure backup service.png">
+ <h1>Manage Identity</h1>
+ <p>Azure Managed Identity is a service in Microsoft Azure that enhances the security and ease of access to cloud resources by providing an identity management solution for applications and services.</p>
+ <img src="management identity img 7.jpeg">
  
  <h1>App Service plan</h1>
  <p>
@@ -52,7 +55,9 @@ Azure App Service Plan is a foundational component within Microsoft Azure that d
 Azure Bot Service is a cloud-based service provided by Microsoft Azure that enables the development, deployment, and management of intelligent bots. Bots created using Azure Bot Service can interact with users across various channels, such as web, mobile, Microsoft Teams, Skype, and more.
 </p>
 <img src="azure ai services.png">
-
+<h3>Search Service</h3>
+<p>Azure Search Service is a fully managed, cloud-based search-as-a-service solution provided by Microsoft Azure. It allows developers to integrate powerful search capabilities into their applications without the need for complex infrastructure or extensive search engine expertise.</p>
+<img src="azure screen service ai.png">
 <h3>Azure Chatbot :-</h3> 
 <p>The Azure AI Language Chatbot is a cutting-edge conversational agent powered by Microsoft's Azure platform. Leveraging advanced natural language processing capabilities, it facilitates dynamic and context-aware interactions. This intelligent chatbot employs machine learning algorithms to comprehend user queries, providing personalized responses and assistance across diverse domains. Seamlessly integrating with Azure services, it ensures scalability and reliability.</p>
 
@@ -74,10 +79,10 @@ Working Live Project Display:</h1>
 <img src="screenshot-3.png">
 <img src="Screenshot -4.p">
 <img src="https://github.com/Sikindar000/FIT-FLAVOURSKITCHEN/blob/main/Screenshot%20-5.1.png?raw=true">
-<img src="">
+<img src="https://github.com/Sikindar000/FIT-FLAVOURSKITCHEN/blob/main/Screenshot%20-6.png?raw=true">
 
 <h3>chatbot</h3>
-<img src="chatbot.png">
+<img src="webchat.png">
 <h3>Resourace Visualizer</h3>
 <img src="resource visualizer.jpg">
 
