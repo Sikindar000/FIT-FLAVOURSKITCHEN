@@ -6,7 +6,7 @@
 	<b>GitHub Repository URL :</b><br>
 	<b>Industry : Food Industry</b><br>
 
-<h1>Roles & Responsibilities:</h3>
+<h1>Roles & Responsibilities:</h2>
 <b>Sai Priya (content management): Responsible for managing the website content.</b> <br>
 <b>Mysakshi Ranjith (project description): Responsible for managing the description.</b> <br>
 <b>Modukuri Rajesh (documentation): Responsible for managing the documentation process.</b> <br>
