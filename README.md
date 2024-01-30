@@ -15,6 +15,7 @@
 <h1>Azure services used:</h1>
 <b>1.	Azure blob storage</b>
 <img src="azure blob storage.png">
+<img src="azure blob storage-2.png">
 <br>
 <b>2.	Storage account</b>  
 
