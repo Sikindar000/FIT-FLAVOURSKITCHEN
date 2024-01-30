@@ -55,10 +55,15 @@ Azure Bot Service is a cloud-based service provided by Microsoft Azure that enab
 
 <h3>Azure Chatbot :-</h3> 
 <p>The Azure AI Language Chatbot is a cutting-edge conversational agent powered by Microsoft's Azure platform. Leveraging advanced natural language processing capabilities, it facilitates dynamic and context-aware interactions. This intelligent chatbot employs machine learning algorithms to comprehend user queries, providing personalized responses and assistance across diverse domains. Seamlessly integrating with Azure services, it ensures scalability and reliability.</p>
-<img src= "Chatbot.png">
+
 <h1>Screenshot’s:</h1>
 <h3>Static website</h3>
-<img src="">
+<img src="screen shot static website.png">
+<h3>Language service</h3>
+<img src="organic language.jpg">
+<h3>Resourace Visualizer</h3>
+<img src="resource visualizer.jpg">
+
 
 <h1>Description</h1>
 <h1>Here I am attaching the final working website's screenshot for the reference.
@@ -69,6 +74,11 @@ Working Live Project Display:</h1>
 <img src="Screenshot -4.png">
 <img src="Screenshot-5.1.png">
 <img src="Screenshot-6.png">
+
+<h3>chatbot</h3>
+<img src="chatbot.png">
+<h3>Resourace Visualizer</h3>
+<img src="resource visualizer.jpg">
 
 
 
