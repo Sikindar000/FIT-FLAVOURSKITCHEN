@@ -13,18 +13,16 @@
 <b>Kamatham Sikinder Basha (deployment): Deployment and maintenance of project infrastructure./b><br>
 
 <h1>Azure services used:</h1>
-<b>1.	Azure blob storage</b>
-<img src="azure blob storage.png">
-<img src="azure blob storage-2.png">
+<b>1.Azure blob storage</b>
 <br>
-<b>2.	Storage account</b>  
-<img src="azure screen shot-1.1.png">
+<b>2.Storage account</b>  
 <br>
-<b>3.	Azure Backup service</b>
-
+<b>3.Azure Backup service</b>
 <br>
-<b>4.	Azure AI services</b> <br>
-<b>5.	chatbot</b> <br>
+<b> 4.Azure App service plan<b>
+<b>5.Azure AI services</b> 
+<br>
+<b>6.chatbot</b> <br>
 <h1>Problem Statement:</h1>
 <p>Today’s restaurant faces challenges ranging from the use of processed ingredients to a lack of emphasis on organic and locally sourced produce. The menu lacks freshness and nutritional diversity, leading to concerns about the overall health impact on customers. Additionally, the reliance on industrial farming practices raises sustainability issues and environmental concerns. Limited transparency about ingredient sources and preparation methods further erodes customer trust. The absence of innovative culinary approaches and inflexible menu options contributes to a stagnant dining experience. This restaurant struggles to adapt to evolving consumer preferences for organic, sustainable, and locally produced foods, risking its relevance in a health-conscious market."</p>
 <h1>Project Description:</h1>
@@ -32,10 +30,15 @@
 <h1>Core Azure Services:</h1>
 <h3>Azure Blob Storage:-</h3> 
 <p>Azure Blob Storage is Microsoft's scalable object storage solution in the Azure cloud. It enables secure and cost-effective storage of unstructured data, such as documents and images. Offering seamless integration with applications, it supports data of any size and optimizes accessibility through a globally distributed network.</p> 
+<img src="azure blob storage.png">
+<img src="azure blob storage-2.png>
 <h3>Azure Storage Account:-</h3> 
 <p>Azure Storage Account is a foundational component in Microsoft Azure, providing secure and scalable cloud storage. It supports various storage services like Blob, File, Queue, and Table, accommodating diverse data types. With features such as redundancy options and access controls, it ensures reliable and efficient data management.</p>
+	
  <h3>Azure Backup Service:-</h3> 
  <p>Azure Backup Service by Microsoft safeguards critical data in the Azure cloud. It offers automated and scalable backup solutions for virtual machines, applications, and files. With features like long-term retention and geo-redundancy, it ensures data resilience and facilitates efficient disaster recovery, enhancing overall data protection strategies.</p>
+ <img src="azure backup service.png>
+ <img src="azure backup service-2.png">	 
 <h1>Azure AI Service</h1>
 <h3>Azure Chatbot :-</h3> 
 <p>The Azure AI Language Chatbot is a cutting-edge conversational agent powered by Microsoft's Azure platform. Leveraging advanced natural language processing capabilities, it facilitates dynamic and context-aware interactions. This intelligent chatbot employs machine learning algorithms to comprehend user queries, providing personalized responses and assistance across diverse domains. Seamlessly integrating with Azure services, it ensures scalability and reliability.</p>
