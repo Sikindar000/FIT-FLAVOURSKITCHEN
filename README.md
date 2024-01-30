@@ -40,12 +40,12 @@
  <h3>Azure Backup Service:-</h3> 
  <p>Azure Backup Service by Microsoft safeguards critical data in the Azure cloud. It offers automated and scalable backup solutions for virtual machines, applications, and files. With features like long-term retention and geo-redundancy, it ensures data resilience and facilitates efficient disaster recovery, enhancing overall data protection strategies.</p>
  <img src="azure backup service.png">
- <img src="azure backup service-2.png">
+ 
  <h1>App Service plan</h1>
  <p>
 Azure App Service Plan is a foundational component within Microsoft Azure that defines the region, compute resources, and features available to host web applications, mobile app backends, and RESTful APIs using Azure App Service.
  </p>
- <img src="">
+ <img src="azure backup service-2.png">
 <h1>Azure AI Service</h1>
 <h3>bot service<h3>
 <p>
