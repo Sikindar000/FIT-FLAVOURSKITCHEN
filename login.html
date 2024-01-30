@@ -1,0 +1,99 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Login Page</title>
+  <link rel="stylesheet" href="login.css">
+  <script >
+    function login() {
+        // In a real scenario, you would perform server-side authentication here
+        // For simplicity, let's assume a username "user" and password "password"
+        var username = document.getElementById('username').value;
+        var password = document.getElementById('password').value;
+      
+        if (username === 'user' && password === 'password') {
+          // Redirect to index(1).html on successful login
+          window.location.href = 'index (1).html';
+        } else {
+          alert('Invalid username or password');
+        }
+      }
+      
+</script>
+<style> 
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      border: 1px solid;
+      overflow: hidden; /* Prevent the blurred background from overflowing */
+    }
+
+    .background-container {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      /*z-index: -1; /* Move the background behind the content */
+      
+    }
+
+    .background-image {
+      width: 100%;
+      height: 100%;
+      object-fit: cover; /* Ensure the image covers the entire container */
+    }
+
+    .login-container {
+      background-color: #fff;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      z-index: 1; /* Bring the login container above the blurred background */
+    }
+
+    /* Your existing styles... */
+  </style>
+  
+</head>
+<body><div class="background-container">
+    <img src="login background.jpg" alt="Background Image" class="background-image">
+  </div>    <div class="login-container">
+  <h2>Login</h2>
+  <form id="loginForm">
+    <label for="username">Username:</label>
+    <input type="text" id="username" name="username" required>
+
+    <label for="password">Password:</label>
+    <input type="password" id="password" name="password" required>
+
+    <button type="button" onclick="login()">Login</button>
+  </form>
+</div>
+
+<script >
+    function login() {
+        // In a real scenario, you would perform server-side authentication here
+        // For simplicity, let's assume a username "user" and password "password"
+        var username = document.getElementById('username').value;
+        var password = document.getElementById('password').value;
+      
+        if (username.length !== 0 && password.length !== 0) {
+          // Redirect to index(1).html on successful login
+          window.location.href = 'index (1).html';
+        } else {
+          alert('Invalid username or password');
+        }
+      }
+      
+</script>
+</body>
+</html>
