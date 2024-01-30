@@ -4,7 +4,7 @@
 	<b>**Project Demo URL:https://organicfood01.z13.web.core.windows.net/</b> <br>
 	<b>**Demo Video URL:https://youtu.be/E_F4iWolFHM?si=fOvTiH1zMGz4bOwo</b> <br>
 	<b>GitHub Repository URL :https://github.com/Sikindar000/FIT-FLAVOURSKITCHEN</b><br>
-	<b>Industry : Food Industry</b><br>
+	<b>Industry : Life Style</b><br>
 
 <h1>Roles & Responsibilities:</h2>
 <b>Sai Priya (content management): Responsible for managing the website content.</b> <br>
@@ -19,7 +19,7 @@
 <br>
 <b>3.Azure Backup service</b>
 <br>
-<b> 4.Azure App service plan<b>
+<b> 4.Azure App service plan<b><br>
 <b>5.Azure AI services</b> 
 <br>
 <b>6.chatbot</b> <br>
