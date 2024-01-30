@@ -35,8 +35,8 @@
 <img src="azure blob storage-2.png">
 <h3>Azure Storage Account:-</h3> 
 <p>Azure Storage Account is a foundational component in Microsoft Azure, providing secure and scalable cloud storage. It supports various storage services like Blob, File, Queue, and Table, accommodating diverse data types. With features such as redundancy options and access controls, it ensures reliable and efficient data management.</p>
-<img src="">
-<img src="">
+<img src="storage account.png">
+
  <h3>Azure Backup Service:-</h3> 
  <p>Azure Backup Service by Microsoft safeguards critical data in the Azure cloud. It offers automated and scalable backup solutions for virtual machines, applications, and files. With features like long-term retention and geo-redundancy, it ensures data resilience and facilitates efficient disaster recovery, enhancing overall data protection strategies.</p>
  <img src="azure backup service.png">
@@ -72,9 +72,9 @@ Working Live Project Display:</h1>
 <img src="screenshot-1.png">
 <img src="Screenshot -2.png">
 <img src="screenshot-3.png">
-<img src="Screenshot -4.png">
-<img src="Screenshot-5.1.png">
-<img src="Screenshot-6.png">
+<img src="Screenshot -4.p">
+<img src="">
+<img src="">
 
 <h3>chatbot</h3>
 <img src="chatbot.png">
