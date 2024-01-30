@@ -1,9 +1,9 @@
 <h1>FIT-FLAVOURS KITCHEN:</h1>
 <h4>Savor the Goodness of nature in every bite.</h4>
 <h1>Project Details</h1>
-	<b>**Project Demo URL:</b> <br>
-	<b>**Demo Video URL:</b> <br>
-	<b>GitHub Repository URL :</b><br>
+	<b>**Project Demo URL:https://organicfood01.z13.web.core.windows.net/</b> <br>
+	<b>**Demo Video URL:https://youtu.be/E_F4iWolFHM?si=fOvTiH1zMGz4bOwo</b> <br>
+	<b>GitHub Repository URL :https://github.com/Sikindar000/FIT-FLAVOURSKITCHEN</b><br>
 	<b>Industry : Food Industry</b><br>
 
 <h1>Roles & Responsibilities:</h2>
@@ -57,10 +57,10 @@ Azure Bot Service is a cloud-based service provided by Microsoft Azure that enab
 <img src="azure ai services.png">
 <h3>Search Service</h3>
 <p>Azure Search Service is a fully managed, cloud-based search-as-a-service solution provided by Microsoft Azure. It allows developers to integrate powerful search capabilities into their applications without the need for complex infrastructure or extensive search engine expertise.</p>
-<img src="azure screen service ai.png">
+<img src="https://github.com/Sikindar000/FIT-FLAVOURSKITCHEN/blob/main/azure%20search%20service%20ai.png?raw=true">
 <h3>Azure Chatbot :-</h3> 
 <p>The Azure AI Language Chatbot is a cutting-edge conversational agent powered by Microsoft's Azure platform. Leveraging advanced natural language processing capabilities, it facilitates dynamic and context-aware interactions. This intelligent chatbot employs machine learning algorithms to comprehend user queries, providing personalized responses and assistance across diverse domains. Seamlessly integrating with Azure services, it ensures scalability and reliability.</p>
-
+<img src="Chatbot.png">
 <h1>Screenshot’s:</h1>
 <h3>Static website</h3>
 <img src="screen shot static website.png">
@@ -77,7 +77,7 @@ Working Live Project Display:</h1>
 <img src="screenshot-1.png">
 <img src="Screenshot -2.png">
 <img src="screenshot-3.png">
-<img src="Screenshot -4.p">
+<img src="Screenshot -4.png">
 <img src="https://github.com/Sikindar000/FIT-FLAVOURSKITCHEN/blob/main/Screenshot%20-5.1.png?raw=true">
 <img src="https://github.com/Sikindar000/FIT-FLAVOURSKITCHEN/blob/main/Screenshot%20-6.png?raw=true">
 
