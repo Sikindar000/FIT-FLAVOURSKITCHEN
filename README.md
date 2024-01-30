@@ -30,15 +30,14 @@
 <h1>Core Azure Services:</h1>
 <h3>Azure Blob Storage:-</h3> 
 <p>Azure Blob Storage is Microsoft's scalable object storage solution in the Azure cloud. It enables secure and cost-effective storage of unstructured data, such as documents and images. Offering seamless integration with applications, it supports data of any size and optimizes accessibility through a globally distributed network.</p> 
-<img src="azure blob storage.png">
-<img src="azure blob storage-2.png>
+
 <h3>Azure Storage Account:-</h3> 
 <p>Azure Storage Account is a foundational component in Microsoft Azure, providing secure and scalable cloud storage. It supports various storage services like Blob, File, Queue, and Table, accommodating diverse data types. With features such as redundancy options and access controls, it ensures reliable and efficient data management.</p>
 	
  <h3>Azure Backup Service:-</h3> 
  <p>Azure Backup Service by Microsoft safeguards critical data in the Azure cloud. It offers automated and scalable backup solutions for virtual machines, applications, and files. With features like long-term retention and geo-redundancy, it ensures data resilience and facilitates efficient disaster recovery, enhancing overall data protection strategies.</p>
- <img src="azure backup service.png>
- <img src="azure backup service-2.png">	 
+ 
+ 	 
 <h1>Azure AI Service</h1>
 <h3>Azure Chatbot :-</h3> 
 <p>The Azure AI Language Chatbot is a cutting-edge conversational agent powered by Microsoft's Azure platform. Leveraging advanced natural language processing capabilities, it facilitates dynamic and context-aware interactions. This intelligent chatbot employs machine learning algorithms to comprehend user queries, providing personalized responses and assistance across diverse domains. Seamlessly integrating with Azure services, it ensures scalability and reliability.</p>
