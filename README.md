@@ -31,8 +31,8 @@
 <h3>Azure Blob Storage:-</h3>
 
 <p>Azure Blob Storage is Microsoft's scalable object storage solution in the Azure cloud. It enables secure and cost-effective storage of unstructured data, such as documents and images. Offering seamless integration with applications, it supports data of any size and optimizes accessibility through a globally distributed network.</p> 
-<img src="">
-<img src="">
+<img src="azure blob storage.png">
+<img src="azure blob storage-2.png">
 <h3>Azure Storage Account:-</h3> 
 <p>Azure Storage Account is a foundational component in Microsoft Azure, providing secure and scalable cloud storage. It supports various storage services like Blob, File, Queue, and Table, accommodating diverse data types. With features such as redundancy options and access controls, it ensures reliable and efficient data management.</p>
 <img src="">
@@ -40,8 +40,12 @@
  <h3>Azure Backup Service:-</h3> 
  <p>Azure Backup Service by Microsoft safeguards critical data in the Azure cloud. It offers automated and scalable backup solutions for virtual machines, applications, and files. With features like long-term retention and geo-redundancy, it ensures data resilience and facilitates efficient disaster recovery, enhancing overall data protection strategies.</p>
  <img src="azure backup service.png">
+ <img src="azure backup service-2.png">
+ <h1>App Service plan</h1>
+ <p>
+Azure App Service Plan is a foundational component within Microsoft Azure that defines the region, compute resources, and features available to host web applications, mobile app backends, and RESTful APIs using Azure App Service.
+ </p>
  <img src="">
- 	 
 <h1>Azure AI Service</h1>
 <h3>bot service<h3>
 <p>
