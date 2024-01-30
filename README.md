@@ -36,8 +36,8 @@
 <h1>Screenshot’s:</h1>
 
 <h1>Description</h1>
-<p>Here I am attaching the final working website's screenshot for the reference.
-Working Live Project Display:</p>
+<h1>Here I am attaching the final working website's screenshot for the reference.
+Working Live Project Display:</h1>
 
 
 
