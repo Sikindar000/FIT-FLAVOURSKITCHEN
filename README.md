@@ -22,7 +22,7 @@
 <p>Today’s restaurant faces challenges ranging from the use of processed ingredients to a lack of emphasis on organic and locally sourced produce. The menu lacks freshness and nutritional diversity, leading to concerns about the overall health impact on customers. Additionally, the reliance on industrial farming practices raises sustainability issues and environmental concerns. Limited transparency about ingredient sources and preparation methods further erodes customer trust. The absence of innovative culinary approaches and inflexible menu options contributes to a stagnant dining experience. This restaurant struggles to adapt to evolving consumer preferences for organic, sustainable, and locally produced foods, risking its relevance in a health-conscious market."</p>
 <h1>Project Description:</h1>
 <p> This project involves the creation of a  static and visually appealing website for an organic restaurant. The website aims to showcase the restaurant's commitment to organic, pesticide-free ingredients, with a focus on both vegetarian and non-vegetarian offerings. The goal is to attract health-conscious customers by highlighting the wholesome, natural options available and promoting environmental consciousness.</p>
-<h1>Core Azure Services:</h2>
+<h1>Core Azure Services:</h1>
 <h3>Azure Blob Storage:-</h3> 
 <p>Azure Blob Storage is Microsoft's scalable object storage solution in the Azure cloud. It enables secure and cost-effective storage of unstructured data, such as documents and images. Offering seamless integration with applications, it supports data of any size and optimizes accessibility through a globally distributed network.</p> 
 <h3>Azure Storage Account:-</h3> 
