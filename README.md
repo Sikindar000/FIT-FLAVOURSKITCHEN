@@ -59,10 +59,7 @@ Azure Bot Service is a cloud-based service provided by Microsoft Azure that enab
 <h1>Screenshot’s:</h1>
 <h3>Static website</h3>
 <img src="screen shot static website.png">
-<h3>Language service</h3>
-<img src="organic language.jpg">
-<h3>Resourace Visualizer</h3>
-<img src="resource visualizer.jpg">
+
 
 
 <h1>Description</h1>
