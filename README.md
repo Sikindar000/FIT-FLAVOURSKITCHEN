@@ -39,6 +39,12 @@
 <h1>Here I am attaching the final working website's screenshot for the reference.
 Working Live Project Display:</h1>
 <img src="screenshot-1.png">
+<img src="screenshot-2.png">
+<img src="screenshot-3.png">
+<img src="screenshot-4.png">
+<img src="screenshot-5.1.png">
+<img src="screenshot-6.png">
+
 
 
 <h1>Final Project Statement:</h1>
