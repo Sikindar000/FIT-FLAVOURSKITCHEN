@@ -13,7 +13,9 @@
 <b>Kamatham Sikinder Basha (deployment): Deployment and maintenance of project infrastructure./b><br>
 
 <h1>Azure services used:</h1>
-<b>1.	Azure blob storage</b> <br>
+<b>1.	Azure blob storage</b>
+<img src="azure blob storage.png">
+<br>
 <b>2.	Storage account</b>   <br>
 <b>3.	Azure Backup service</b> <br>
 <b>4.	Azure AI services</b> <br>
